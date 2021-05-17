@@ -7,6 +7,13 @@
 // http://www.tokensalecalendar.com/
 
 module.exports = [{
+// TAXEM Token sale
+to:         '0xf0ebb4a0784e710bfe06e69935018a94926ccd57',
+gasLimit:   200000,
+data:       '',
+msg:        'Thank you for buying TAXEM Token! Being shareholder with TAX Tokens of art collective https://www.taxem.rocks/
+},  
+{
 // LondonCoin Token sale
 to:         '0x9efa0e2387e4cba02a6e4e6594b8f4dd209a0b93',
 gasLimit:   200000,
